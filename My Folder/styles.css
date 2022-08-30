@@ -230,7 +230,7 @@
 .main__content h2 {
     font-size: 4rem;
     background-color: #ff8177;
-    background-image: linear-gradient(to top, #b721ff 0%, #21d4fd 100%);
+    background-image: linear-gradient(to top, #21a2ff 0%, #21fd6e 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -247,7 +247,7 @@
 
 .main__btn {
     font-size: 1rem;
-    background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
+    background-image: linear-gradient(to top, #f77062 0%, #fe5168 100%);
     padding: 14px 32px;
     border: none;
     border-radius: 4px;
@@ -273,7 +273,7 @@
     left: 0;
     width: 0;
     height: 100%;
-    background: #4837ff;
+    background: #3770ff;
     transition: all 0.35s;
     border-radius: 4px;
 }
@@ -359,7 +359,7 @@
 
 .services h1 {
     background-color:#ff8177 ;
-    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+    background-image: linear-gradient(to right, #ff8177 0%, #7aff81 0%, #ffd27f 21%, #f9ca85 52%, #cd55cf 78%, #b12a5b 100%);
     background-size: 100%;
     margin-bottom: 5rem;
     font-size: 2.5rem;
@@ -450,7 +450,7 @@
 
 /* Footer CSS */
 .footer__container {
-    background-color: #141414;
+    background-color: #ffffff;
     padding: 5rem 0;
     display: flex;
     flex-direction: column;
